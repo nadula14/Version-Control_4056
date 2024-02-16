@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;300;400;500;600;700&display=swap');
+
+
+
+body {
+    background-image: url('./assests/Rectangle 29.png');
+    background-size: cover; 
+    background-position: calc(); 
+    background-repeat: no-repeat;
+}
+
+
+
+
+
+h1 {
+  font-size: 3rem; 
+  text-align: center; 
+  left: 50%;
+  color: #fff; 
+}
+.blog-column{
+  padding: 40px 60px;
+}
+
+.blog-column h2{
+  margin-bottom: 20px;
+}
+.blog-column p{
+  margin: 0 40px;;
+}
+.subheadings{
+  padding-top: 3rem;
+  padding-bottom: 2rem;
+  font-size: 3rem;
+  text-align: center;
+  color: var(--lightgreen1);
+}
+.block{
+  margin: 5px; 
+    padding: 10px;
+    background: #e0e0eb;
+    padding: 5px;
+}
+
+.title1{
+  margin: 15; 
+    padding: 15;
+}
+
+button{
+  color: white;
+  background: #0066ff;
+  border: none;
+  border-radius: 5px;
+  padding: 8px 10px;
+  margin: 20px;
+  font-weight: bold;
+}
+button:hover{
+  background: white;
+  color: #0066ff;
+  border: 1px solid #0066ff;
+}

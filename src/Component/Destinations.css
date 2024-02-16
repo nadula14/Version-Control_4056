@@ -1,0 +1,287 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;300;400;500;600;700&display=swap');
+
+
+* {
+  	margin: 0; 
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+    line-height: normal;
+}
+
+body {
+    background-image: url('./assests/Rectangle 29.png');
+    background-size: cover; 
+    background-position: calc(); 
+    background-repeat: no-repeat;
+   
+}
+
+.displayflex{
+    display: flex;
+    padding: 20;
+    margin: 10;
+    
+}
+
+.card{
+    margin: 6rem;
+    width: 30rem;
+}
+
+.imge-container-1{
+    height: 200px;
+    background-image: url('https://th.bing.com/th/id/OIP.Bv0rarBQ66nSl1CR9TohCgHaEK?w=319&h=180&c=7&r=0&o=5&pid=1.7');
+}
+.imge-container-2{
+    height: 200px;
+    background-image: url('https://th.bing.com/th/id/OIP.Uk8eNn1nHmgn_OELlPCnGgHaFS?w=260&h=186&c=7&r=0&o=5&pid=1.7');
+}
+.imge-container-3{
+    height: 200px;
+    background-image: url('https://th.bing.com/th/id/OIP.AQrDhlSER1YbfsH__iFaOAHaE7?w=264&h=180&c=7&r=0&o=5&pid=1.7');
+}
+
+/* .destinations {
+    position: absolute;
+    top: 259px;
+    left: 514px;
+    font-size: 145px;
+    letter-spacing: 0.11em;
+    line-height: 133.5%;
+    font-family: 'Just Another Hand';
+    color: rgba(0, 0, 0, 0.2);
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.frameChild {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background: linear-gradient(134.47deg, #46969b, rgba(2, 23, 21, 0));
+    width: 1080px;
+    height: 720px;
+}
+
+.frameItem {
+    position: absolute;
+    top: 321.5px;
+    left: 240px;
+    width: 274px;
+    height: 100px;
+}
+.aDayIn1 {
+    margin: 0;
+}
+.span {
+    font-size: 12px;
+}
+.welcomeToGalleAPicturesqu {
+    margin: 0;
+    font-size: 13px;
+    color: #100e0e;
+}
+.aDayInContainer {
+    position: absolute;
+    top: 323px;
+    left: 240px;
+    letter-spacing: 0.13em;
+    line-height: 133.5%;
+    display: inline-block;
+    width: 274px;
+    height: 100px;
+}
+.frameInner {
+    position: absolute;
+    top: 175px;
+    left: 91px;
+    width: 141px;
+    height: 124px;
+    object-fit: cover;
+    mix-blend-mode: normal;
+}
+.rectangleDiv {
+    position: absolute;
+    top: 173px;
+    left: 91px;
+    background-color: #d9d9d9;
+    width: 1px;
+    height: 6px;
+}
+.frameChild1 {
+    position: absolute;
+    top: 175px;
+    left: 232px;
+    background-color: rgba(217, 217, 217, 0.2);
+    width: 274px;
+    height: 124px;
+}
+.glimpseOfColombo2 {
+    color: #f9f9f9;
+}
+.welcomeToColomboTheVibran {
+    margin: 0;
+    font-size: 13px;
+}
+.glimpseOfColomboContainer {
+    position: absolute;
+    top: 179px;
+    left: 231px;
+    letter-spacing: 0.13em;
+    line-height: 133.5%;
+    display: inline-block;
+    width: 275px;
+    height: 120px;
+    color: #000;
+}
+.rectangleIcon {
+    position: absolute;
+    top: 323px;
+    left: 100px;
+    width: 140px;
+    height: 107px;
+    object-fit: cover;
+}
+.frameChild2 {
+    position: absolute;
+    top: 454px;
+    left: 100px;
+    width: 140px;
+    height: 107px;
+    object-fit: cover;
+}
+.frameChild3 {
+    position: absolute;
+    top: 458px;
+    left: 240px;
+    background-color: rgba(217, 217, 217, 0.2);
+    width: 274px;
+    height: 107px;
+}
+.arugambayTheSurfingContainer {
+    position: absolute;
+    top: 458px;
+    left: 251px;
+    letter-spacing: 0.13em;
+    line-height: 133.5%;
+    display: inline-block;
+    width: 274px;
+    height: 100px;
+}
+.frameChild4 {
+    position: relative;
+    background-color: #d9d9d9;
+    width: 1px;
+    height: 12px;
+    z-index: 0;
+}
+.frameChild5 {
+    position: relative;
+    width: 198px;
+    height: 60px;
+    z-index: 1;
+}
+.frameChild6 {
+    position: relative;
+    background-color: #05001b;
+    width: 262px;
+    height: 60px;
+    z-index: 2;
+}
+.frameChild7 {
+    position: relative;
+    background-color: #05001b;
+    width: 178px;
+    height: 60px;
+    z-index: 3;
+}
+.frameChild8 {
+    position: relative;
+    background-color: #05001b;
+    width: 216px;
+    height: 60px;
+    z-index: 4;
+}
+.destinations1 {
+    position: absolute;
+    margin: 0 !important;
+    top: 12px;
+    left: 28px;
+    color: #fffafa;
+    z-index: 5;
+}
+.travelBlogs {
+    position: absolute;
+    margin: 0 !important;
+    top: 12px;
+    left: 475px;
+    z-index: 6;
+}
+.recommendedRoutes {
+    position: absolute;
+    margin: 0 !important;
+    top: 12px;
+    left: 198px;
+    z-index: 7;
+}
+.accomodation {
+    position: absolute;
+    margin: 0 !important;
+    top: 12px;
+    left: 653px;
+    z-index: 8;
+}
+.rectangleParent {
+    height: 53px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    position: relative;
+}
+.frameWrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 10px;
+}
+.frameChild9 {
+    position: relative;
+    width: 1080px;
+    height: 657px;
+    object-fit: cover;
+}
+.frameParent {
+    position: absolute;
+    top: 0px;
+    left: -9px;
+    width: 1089px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    font-size: 24px;
+    color: #fff;
+    font-family: Itim;
+}
+.destinationsParent {
+    position: relative;
+    width: 100%;
+    height: 720px;
+    overflow: hidden;
+    text-align: left;
+    font-size: 16px;
+    color: #fffafa;
+    font-family: ABeeZee;
+}
+
+.GeeksForGeeks {
+    background-image: 
+    url(
+  "E:\University Documents\Second Year\4th_Sem\Web_Development\freeroamsl\front-end-2\public\Rectangle 29.png");
+    background-size: "cover";
+    height: 100vh;
+    margin-top: -70px;
+    font-size:50px;
+    background-repeat:no-repeat; 
+  } */

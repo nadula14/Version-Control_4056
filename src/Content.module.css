@@ -1,0 +1,219 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Readex+Pro:wght@400&display=swap');
+body {
+  	margin: 0; line-height: normal;
+}
+
+.istockphoto1213337080612x612Icon {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 1080px;
+    height: 720px;
+    object-fit: cover;
+}
+.span {
+    color: rgba(26, 26, 26, 0);
+}
+.logIn {
+    font-weight: 500;
+    color: #80cdd0;
+}
+.haveAnAccountContainer {
+    position: absolute;
+    top: 74.16px;
+    left: 1.4px;
+    display: inline-block;
+    width: 205.86px;
+    height: 23.84px;
+}
+.createAccount {
+    position: relative;
+    font-weight: 500;
+}
+.btnCreateaccount {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background-color: #007074;
+    width: 209.35px;
+    height: 52.97px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    font-size: 26px;
+}
+.actionButtons {
+    position: absolute;
+    top: 401px;
+    left: 70px;
+    width: 209.35px;
+    height: 98px;
+    font-size: 18px;
+    color: #fff;
+}
+.password {
+    position: absolute;
+    top: 0px;
+    left: 0.92px;
+    font-weight: 500;
+    display: inline-block;
+    width: 198px;
+    height: 23px;
+}
+.input3 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background-color: #eff0f2;
+    width: 348.92px;
+    height: 36.5px;
+}
+.enterYourPassword1 {
+    position: absolute;
+    top: 9.16px;
+    left: 16.92px;
+    display: inline-block;
+    width: 233px;
+    height: 17px;
+}
+.passwordinp {
+    position: absolute;
+    top: 38.84px;
+    left: 0px;
+    width: 348.92px;
+    height: 36.5px;
+    font-size: 20px;
+    color: #838383;
+}
+.passwordInput {
+    position: absolute;
+    top: 228px;
+    left: 1.08px;
+    width: 348.92px;
+    height: 75.34px;
+}
+.email {
+    position: absolute;
+    top: 0px;
+    left: 1px;
+    font-weight: 500;
+    display: inline-block;
+    width: 113px;
+    height: 26px;
+}
+.input4 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background-color: #eff0f2;
+    width: 348.92px;
+    height: 46.48px;
+}
+.enterYourEmail1 {
+    position: absolute;
+    top: 12px;
+    left: 17px;
+    display: inline-block;
+    width: 275px;
+    height: 22px;
+}
+.emailinp {
+    position: absolute;
+    top: 34px;
+    left: 0px;
+    width: 348.92px;
+    height: 46.48px;
+    font-size: 20px;
+    color: #838383;
+}
+.emailInput {
+    position: absolute;
+    top: 107px;
+    left: 0px;
+    width: 348.92px;
+    height: 80.48px;
+}
+.fullName {
+    position: absolute;
+    top: 0px;
+    left: 1px;
+    display: inline-block;
+    width: 179px;
+    height: 26px;
+}
+.input5 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background-color: #eff0f2;
+    width: 349px;
+    height: 46px;
+}
+.enterYourFull1 {
+    position: absolute;
+    top: 6px;
+    left: 10px;
+}
+.nameinp {
+    position: absolute;
+    top: 26px;
+    left: 0px;
+    width: 349px;
+    height: 46px;
+    color: #838383;
+}
+.fullnameInput {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 349px;
+    height: 72px;
+    font-family: 'Readex Pro';
+}
+.form {
+    position: absolute;
+    top: 123px;
+    left: 365px;
+    width: 350px;
+    height: 499px;
+}
+.innerImg11 {
+    position: absolute;
+    top: 389px;
+    left: 923px;
+    width: 25px;
+    height: 30px;
+}
+.title {
+    position: absolute;
+    top: 81px;
+    left: 294px;
+    font-size: 32px;
+    font-weight: 800;
+    color: #000a0b;
+    display: inline-block;
+    width: 490px;
+    height: 54px;
+}
+.contentChild {
+    position: absolute;
+    top: 0px;
+    left: 854px;
+    width: 226px;
+    height: 265px;
+    object-fit: cover;
+}
+.content {
+    position: relative;
+    background-color: #fff;
+    width: 100%;
+    height: 720px;
+    overflow: hidden;
+    text-align: left;
+    font-size: 22px;
+    color: #081515;
+    font-family: Poppins;
+}
+
